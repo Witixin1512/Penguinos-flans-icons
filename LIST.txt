@@ -1,0 +1,43 @@
+=============================================================================================
+Version One, 21/10/2020 
+=============================================================================================
+//Armor
+[Bicorne] - A black french hat.
+[Bicorne90] - A black french hat, but instead of being aligned horizontally, its aligned vertically.
+[Carabineur] - A french helmet.
+[Cuirass] - A french body plate.
+[DragoonHelmet] - A french cavalry helmet.
+[FrenchFusilier] - A french coat, using the same design as the Voltigeur Coat, but with diferent colours.
+[FrenchShako] - The French version of the classic Shako helmet used all over Europe.
+[AusFusilier] - The Austrian Fusilier Jacket.
+[KepiBlanc] - The Classic white cap used by French Officers (still used now).
+[LibertyCap] - A french hat used during the Revolution, mostly red with the revolutionary medal.
+[LongPantsB] - Default Long Pants but in Blue Colour.
+[LongPantsG] - Default Long Pants but in Grey Colour.
+[LongPantsT] - Default Long Pants but in Tan Colour.
+[LongPantsW] - Default Long Pants but in White Colour.
+[ShortPantsB] - Default Short Pants but in Blue Colour.
+[ShortPantsG] - Default Short Pants but in Grey Colour.
+[ShortPantsT] - Default Short Pants but in Tan Colour.
+[ShortPantsW] - Default Short Pants but in White Colour.
+[Monocle] - Small eye device for aristocrats to flex on the commoners.
+[PFBearskin] - Big hat that covers your entire head.
+[Pirate Patch] - I made this for you guys, its an eyepatch.
+[PRWaffenrockDB] - Prussian Waffenrock coat but in Dark Blue.
+[PRWaffenrockG] - Prussian Waffenrock coat but in Green.
+[PRWaffenrockLB] - Prussian Waffenrock coat but in Light Blue.
+[PithHelmet] - Classic explorer helmet for when you want to go into the desert or into the jungle(Tan).
+[PithHelmetG] - Classic explorer helmet for when you want to go into the desert or into the jungle(Grey).
+[PithHelmetG2] - Classic explorer helmet for when you want to go into the desert or into the jungle(Green).
+[PithHelmetW] - Classic explorer helmet for when you want to go into the desert or into the jungle(White).
+[SkimmerHat] - Small hat made out of straw.
+[Voltigeur] - A classic french coat, coverting both arms, neck, and a bit of the upper chest part.
+
+//Guns
+[Cutlass] - Piratey sword with a curved edge.
+[Flintlock] - Flintlock pistol used mainly by pirates.
+
+//Vehicles
+[Dunkeltop] - A 1920 Ford car.
+
+
